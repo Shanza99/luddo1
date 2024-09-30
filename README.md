@@ -1,6 +1,14 @@
-# luddo
+# luddo the Bottle Game
 
-A new Flutter project.
+A fun and interactive "luddo the Bottle" game app built with Flutter. Players can input names, luddo a virtual bottle, and complete challenges!
+
+## luddo the Bottle Animation
+
+### Image of luddo:
+![luddo Example](assets/luddo.png)
+
+### Video Demo:
+[Download the video](assets/luddo.mp4)
 
 ## Getting Started
 
